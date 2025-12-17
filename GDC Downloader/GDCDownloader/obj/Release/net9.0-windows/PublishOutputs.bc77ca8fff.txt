@@ -1,0 +1,6 @@
+C:\Users\azmeh\Desktop\GDC Downloader\TcgaDownloader.exe
+C:\Users\azmeh\Desktop\GDC Downloader\Tools\gdc-client.exe
+C:\Users\azmeh\Desktop\GDC Downloader\TcgaDownloader.dll
+C:\Users\azmeh\Desktop\GDC Downloader\TcgaDownloader.deps.json
+C:\Users\azmeh\Desktop\GDC Downloader\TcgaDownloader.runtimeconfig.json
+C:\Users\azmeh\Desktop\GDC Downloader\TcgaDownloader.pdb
