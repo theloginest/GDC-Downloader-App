@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TcgaDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509b523a2d800d6e16105affd75964975e9f6800")]
 [assembly: System.Reflection.AssemblyProductAttribute("TcgaDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TcgaDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

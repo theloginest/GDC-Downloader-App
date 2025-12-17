@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\TcgaDownloader\\TcgaDownloader\\TcgaDownloader.csproj",
+      "projectUniqueName": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
       "projectName": "TcgaDownloader",
-      "projectPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\TcgaDownloader\\TcgaDownloader\\TcgaDownloader.csproj",
+      "projectPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
       "packagesPath": "C:\\Users\\azmeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\TcgaDownloader\\TcgaDownloader\\obj\\",
+      "outputPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
